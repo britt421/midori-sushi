@@ -1,0 +1,19 @@
+#plus{
+     background-color: lightgray;
+}
+
+#plus:hover{
+    background-color: green;
+}
+
+#plus:active{
+    background-color: green;
+}
+
+#minus{
+    background-color: lightgray;
+}
+
+#minus:hover{
+    background-color: red;
+}
