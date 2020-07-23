@@ -1,2 +1,2 @@
 # midori-sushi
-a sushi database that allows customers to filter rolls by ingredient
+A simple front-end application that sorts sushi rolls available on Midori's menu based on user preferences.
