@@ -1,15 +1,17 @@
-var arrExclude = [];
-var arrInclude = [];
 
-function sortByIngredient(arr) {
-    if(arr.ingredients.indexOf("cucumber") > -1){
-        arrExclude.push(arr.name);
-    } else {
-        arrInclude.push(arr.name);
-    }
-}
 
-sortByIngredient(midoriRolls);
+// var arrExclude = [];
+// var arrInclude = [];
+
+// function sortByIngredient(arr) {
+//     if(arr.ingredients.indexOf("cucumber") > -1){
+//         arrExclude.push(arr.name);
+//     } else {
+//         arrInclude.push(arr.name);
+//     }
+// }
+
+// sortByIngredient(midoriRolls);
 
 
 
